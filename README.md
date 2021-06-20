@@ -17,10 +17,7 @@
   - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
   - [Authors](#authors)
-  - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
 ## Short description
@@ -48,3 +45,59 @@ To meet the demand of recycled plastic, supply must adapt. It must become locali
 ## The architecture
 
 ![Video transcription/translation app](https://i.ibb.co/h7txkh6/Architecture.png)
+
+
+
+## Long description
+
+[More detail is available here](./docs/DESCRIPTION.md)
+
+## Project roadmap
+
+The project currently does the following things.
+
+Tip Jar User ("Guest User")
+1. The user navigates to the Tip Jar mobile application.
+2. The user scans the Tip Jar QR code available at checkout (on the payment screen) or on the receipt.
+3. The QR code runs the list of barcodes from the receipt against the Tip Jar registry to identify which products are registered with Tip Jar.
+4. When finished with the product, the user scans the product barcode which outputs recycling instructions (Ex. EMPTY & REPLACE CAP) and instructs the user to place the product in 1 of 6 color-coded Golden Bins (Ex. Green).
+5. When one or more Golden Bins are full (Ex. Green), (Option 1) user identifies Green Golden bin drop-off locations near them or (Option 2) they select
+Curbside Pickup for their Green Golden Bin within the Tip Jar app.
+6. At the Golden bin drop-off location:
+  6a. User first navigates to the Green Golden Bin (Some locations offer more than one Golden bin color).
+  6b. The user then scans their Green Golden Bin QR code.
+  6c. And finally, the user scans one product's barcode from their Green Golden Bin to collect tips in their Tip Jar.
+
+Tip Jar Golden Binn Administrator ("Golden Bin Administrator")
+1. The administrator navigates to the Tip Jar iPad application.
+2. The administrator selects 1 of 6 color-coded Golden Bins to setup on site (An iPad and large trash bin are required for setup). The 6 Golden Bin options are color-coded based on Consumer Goods Company (Coca Cola, Unilever, Proctor & Gamble, Kraft Heinz, & Nestle), with the exception of the Yellow To-Go Golden Bin used for discarding reusable To-Go Food Containers and To-Go Coffee Cups.
+
+See below for the proposed schedule on next steps after Call for Code 2021 submission.
+
+![Roadmap](./images/roadmap.jpg)
+
+## Getting started
+
+In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+
+- [sample-tip-jar](./sample-tip-jar/)
+- [sample-golden-bin-admin](./sample-golden-bin-admin)
+
+
+## Live demo
+
+You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+
+## Built with
+
+- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
+- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+- [Maven](https://maven.apache.org/) - Dependency management
+- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+
+## Authors
+
+Jessica Journeycake, IBM Certified L1 Architect
