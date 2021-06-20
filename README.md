@@ -1,5 +1,4 @@
 # Tip Jar
-# Tip Jar
 
 
 
@@ -48,4 +47,4 @@ To meet the demand of recycled plastic, supply must adapt. It must become locali
 
 ## The architecture
 
-![Video transcription/translation app](./images/TipJarArchitecture.png)
+![Video transcription/translation app](https://i.ibb.co/h7txkh6/Architecture.png)
