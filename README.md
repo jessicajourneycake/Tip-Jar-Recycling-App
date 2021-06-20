@@ -68,7 +68,7 @@ Curbside Pickup for their Green Golden Bin within the Tip Jar app.
   6b. The user then scans their Green Golden Bin QR code.
   6c. And finally, the user scans one product's barcode from their Green Golden Bin to collect tips in their Tip Jar.
 
-Tip Jar Golden Binn Administrator ("Golden Bin Administrator")
+Tip Jar Golden Bin Administrator ("Golden Bin Administrator")
 1. The administrator navigates to the Tip Jar iPad application.
 2. The administrator selects 1 of 6 color-coded Golden Bins to setup on site (An iPad and large trash bin are required for setup). The 6 Golden Bin options are color-coded based on Consumer Goods Company (Coca Cola, Unilever, Proctor & Gamble, Kraft Heinz, & Nestle), with the exception of the Yellow To-Go Golden Bin used for discarding reusable To-Go Food Containers and To-Go Coffee Cups.
 
