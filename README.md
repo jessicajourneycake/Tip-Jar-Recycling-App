@@ -1,1 +1,1 @@
-# TipJar
+# Tip Jar
