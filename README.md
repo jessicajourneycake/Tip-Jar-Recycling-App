@@ -73,7 +73,7 @@ Tip Jar Golden Bin Administrator ("Golden Bin Administrator")
 
 See below for the proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](./roadmap.jpg)
 
 ## Getting started
 
