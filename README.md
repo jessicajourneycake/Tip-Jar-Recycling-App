@@ -24,19 +24,18 @@
 Tip Jar is a revolutionary mobile application that rewards everyday consumers with tips for recycling and reusing packaging and food-service plastics.
 
 ### What's the problem?
-Most of the global plastics waste goes into incineration (25%) and landfills (40%), meaning that these materials are lost forever as a resource, despite plastics’ potential for reuse and recycling. Research shows that currently only 16 percent of plastics waste is reprocessed to make new plastics. the plastic recycling sector remains very fragmented and relatively immature.
+Most of the global plastics waste goes into incineration (25%) and landfills (40%), meaning that these materials are lost forever as a resource, despite plastics’ potential for reuse and recycling. Research shows that currently only 16 percent of plastics waste is reprocessed to make new plastics. One of the root causes being the plastic recycling sector remains very fragmented and relatively immature. 
 
 Meanwhile, over 20 percent of plastic packaging companies have reportedly committed to using recycled plastic and have targets that need to be met by 2025. However, the demand for recycled plastic far outweighs the supply: the compounded annual growth rate of recycled plastic required is 35 percent. There's demand for recycled plastic, but where's the supply?
 
 
 ### How can technology help?
 
-In order to improve plastic recovery rates, improvements in current collection and sorting technology as well as improvements in poor consumer recycling behavior are required.
+In order to improve plastic recovery rates, improvements in current collection and sorting technology as well as improvements in poor consumer recycling behavior are required. Furthermore, one centralized app that combines all recycling/reusable packaging would make recycling and reusing plastic packaging more convenient to the consumer.  
 
 ### The idea
 
-To meet the demand of recycled plastic, supply must adapt. It must become localized, transparent, valued and an efficient material recovery process. And it must do it quickly. Tip Jar not only improves the sorting process through local drop-off locations, but also rewards everyday consumers for recycling and reusing packaging and food-service plastics.
-
+Tip Jar monitors all recyclables/reusables registered with Tip Jar allows for consumer goods companies to opt in to pay consumers tips for them to sort their recyclables/reusables at home and bring to local drop-off locations. At the expense of a smaller tip, consumers can also discard their recyclables via curbside pickup. Additionally, Tip Jar provides a centralized platform for all recycling/reusable packaging programs (Nutella reusable jar, Starbucks reusable coffee cups,..) making it a convenient, and at the same time rewardable, experience for the consumer. 
 
 ## Demo video
 
