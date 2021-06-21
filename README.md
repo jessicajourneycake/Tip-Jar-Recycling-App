@@ -49,7 +49,7 @@ Tip Jar monitors all recyclables/reusables registered with Tip Jar allows for co
 
 ## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
+[More detail is available here.](./description.md)
 
 ## Project roadmap
 
