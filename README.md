@@ -31,11 +31,11 @@ Meanwhile, over 20 percent of plastic packaging companies have reportedly commit
 
 ### How can technology help?
 
-In order to improve plastic recovery rates, improvements in current collection and sorting technology as well as improvements in poor consumer recycling behavior are required. Furthermore, one centralized app that combines all recycling/reusable packaging would make recycling and reusing plastic packaging more convenient to the consumer.  
+In order to improve plastic recovery rates, improvements in current collection and sorting technology as well as adjustments to consumer recycling behavior are required. Furthermore, one centralized app that combines all recycling/reusable packaging would make recycling and reusing plastic packaging more convenient to the consumer.  
 
 ### The idea
 
-Tip Jar monitors all recyclables/reusables registered with Tip Jar allows for consumer goods companies to opt in to pay consumers tips for them to sort their recyclables/reusables at home and bring to local drop-off locations. At the expense of a smaller tip, consumers can also discard their recyclables via curbside pickup. Additionally, Tip Jar provides a centralized platform for all recycling/reusable packaging programs (Nutella reusable jar, Starbucks reusable coffee cups,..) making it a convenient, and at the same time rewardable, experience for the consumer. 
+Tip Jar allows for consumer goods companies to opt in to pay consumers tips for them to sort their recyclables/reusables at home and bring to local drop-off locations. At the expense of a smaller tip, consumers can also discard their recyclables via curbside pickup. Additionally, Tip Jar provides a centralized platform for all recycling/reusable packaging programs (Nutella reusable jar, Starbucks reusable coffee cups, barePack reusable food containers) making it a convenient, and at the same time rewardable, experience for the consumer. 
 
 ## Demo video
 
@@ -49,7 +49,7 @@ Tip Jar monitors all recyclables/reusables registered with Tip Jar allows for co
 
 ## Long description
 
-[More detail is available here.](./description)
+[More detail is available here.](./description.md)
 
 ## Project roadmap
 
@@ -77,10 +77,9 @@ See below for the proposed schedule on next steps after Call for Code 2021 submi
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+Click on the link below for instructions on how to run Tip Jar on your iPhone or iPad. 
+- [sample-tip-jar-react-app](./sample-tip-jar-react-app/)
 
-- [sample-tip-jar](./sample-tip-jar/)
-- [sample-golden-bin-admin](./sample-golden-bin-admin)
 
 
 ## Live demo
