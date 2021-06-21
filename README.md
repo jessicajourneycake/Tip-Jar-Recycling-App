@@ -6,19 +6,19 @@
 
 - [Tip Jar](#submission-or-project-name)
   - [Contents](#contents)
-  - [Short description](#short-description)
-    - [What's the problem?](#whats-the-problem)
-    - [How can technology help?](#how-can-technology-help)
-    - [The idea](#the-idea)
+  - [Short Description](#short-description)
+    - [What's the Problem?](#whats-the-problem)
+    - [How can Technology Help?](#how-can-technology-help)
+    - [The Idea](#the-idea)
   - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
-  - [Long description](#long-description)
-  - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
-  - [Live demo](#live-demo)
+  - [The Architecture](#the-architecture)
+  - [Long Description](#long-description)
+  - [Project Roadmap](#project-roadmap)
+  - [Getting Started](#getting-started)
+  - [Live Demo](#live-demo)
   - [Built with](#built-with)
   - [Authors](#authors)
-  - [Acknowledgments](#acknowledgments)
+ 
 
 ## Short description
 Tip Jar is a revolutionary mobile application that rewards everyday consumers with tips for recycling and reusing packaging and food-service plastics.
