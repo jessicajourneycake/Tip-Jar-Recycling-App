@@ -84,7 +84,8 @@ Click on the link below for instructions on how to run Tip Jar on your iPhone or
 
 ## Live demo
 
-Open the following link with your iPhone or iPad [Tip Jar Live Demo](exp://exp.host/@jjourneycake/welcomeScreen)
+Open the following link with your iPhone or iPad [Tip Jar Live Demo]
+(exp://exp.host/@jjourneycake/welcomeScreen)
 
 ## Built with
 
