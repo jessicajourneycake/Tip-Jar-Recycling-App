@@ -93,11 +93,10 @@ Head to the following link for instructions on how to access the Tip Jar Live De
 
 ## Built with
 
-- [IBM Db2](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The SQL database used
-- [IBM Node-RED](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The platform used for data 
-- [React Native](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Expo](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Barcode Lookup API](https://maven.apache.org/) - Dependency management
+- [IBM Db2](https://www.ibm.com/analytics/db2) - The SQL database used for Tip Jar Registry. 
+- [IBM Node-RED](https://nodered.org/docs/getting-started/ibmcloud) - The platform used for connecting data sources and APIs.
+- [React Native](https://reactnative.dev/) - Mobile app framework used. 
+- [Barcode Lookup API](https://maven.apache.org/) - API to match UPC barcodes with product names & images. 
 
 
 ## Authors
