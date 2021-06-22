@@ -78,14 +78,13 @@ See below for the proposed schedule on next steps after Call for Code 2021 submi
 ## Getting started
 
 Click on the link below for instructions on how to run Tip Jar on your local machine and access the app via your iPhone or iPad. 
-- Instructions: 
+- Instructions: Download quickstart.docx.
 - Download code here: [tip-jar-react-app](./tip-jar-react-app/)
-
 
 
 ## User Guide
 
-Link to User Guide: [User Guide](./userguide/)
+Download userguide.docx. 
 
 ## Live demo
 
@@ -94,12 +93,11 @@ Head to the following link for instructions on how to access the Tip Jar Live De
 
 ## Built with
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [IBM Db2](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The SQL database used
+- [IBM Node-RED](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The platform used for data 
+- [React Native](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
+- [Expo](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+- [Barcode Lookup API](https://maven.apache.org/) - Dependency management
 
 
 ## Authors
