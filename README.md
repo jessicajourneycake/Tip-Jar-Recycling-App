@@ -85,7 +85,7 @@ Click on the link below for instructions on how to run Tip Jar on your local mac
 
 ## User Guide
 
-Link to User Guide: (./Tip Jar User Guide/)
+Link to User Guide: [User Guide](./userguide/)
 
 ## Live demo
 
