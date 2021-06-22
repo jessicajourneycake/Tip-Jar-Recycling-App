@@ -78,9 +78,14 @@ See below for the proposed schedule on next steps after Call for Code 2021 submi
 ## Getting started
 
 Click on the link below for instructions on how to run Tip Jar on your local machine and access the app via your iPhone or iPad. 
-- [sample-tip-jar-react-app](./sample-tip-jar-react-app/)
+- Instructions: 
+- Download code here: [tip-jar-react-app](./tip-jar-react-app/)
 
 
+
+## User Guide
+
+Link to User Guide: (./Tip Jar User Guide/)
 
 ## Live demo
 
