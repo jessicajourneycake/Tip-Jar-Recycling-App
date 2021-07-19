@@ -31,7 +31,7 @@ Meanwhile, over 20 percent of plastic packaging companies have reportedly commit
 
 ### How can technology help?
 
-In order to improve plastic recovery rates, improvements in current collection and sorting technology as well as adjustments to consumer recycling behavior are required. Furthermore, one centralized app that combines all recycling/reusable packaging would make recycling and reusing plastic packaging more convenient to the consumer.  
+In order to improve plastic recovery rates, improvements in current collection and sorting technology as well as adjustments to consumer recycling behavior are required. Furthermore, one centralized app that combines all recycling/reusable packaging programs would make recycling and reusing plastic packaging more convenient to the consumer.  
 
 ### The idea
 
