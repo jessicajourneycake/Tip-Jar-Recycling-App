@@ -35,7 +35,7 @@ In order to improve plastic recovery rates, improvements in current collection a
 
 ### The idea
 
-Tip Jar allows for consumer goods companies to opt in to pay consumers tips for them to sort their recyclables/reusables at home and bring to local drop-off locations. At the expense of a smaller tip, consumers can also discard their recyclables via curbside pickup. Additionally, Tip Jar provides a centralized platform for all recycling/reusable packaging programs (Nutella reusable jar, Starbucks reusable coffee cups, barePack reusable food containers) making it a convenient, and at the same time rewardable, experience for the consumer. 
+Tip Jar allows for consumer goods companies to opt in to pay consumers tips for them to sort their recyclables/reusables at home and bring to local drop-off locations. At the expense of a smaller tip, consumers can also discard their recyclables via curbside pickup. Additionally, Tip Jar provides a centralized platform for all recycling/reusable packaging programs (Nutella reusable jar, Starbucks reusable coffee cups, barePack reusable food containers) making it a convenient, and at the same time rewardable experience for the consumer. 
 
 ## Demo video
 
