@@ -89,7 +89,7 @@ Download userguide.docx.
 ## Live demo
 
 Head to the following link for instructions on how to access the Tip Jar Live Demo (and have your iPad or iPhone ready) 
-- https://expo.io/@jjourneycake/welcomeScreen
+- https://expo.dev/@jjourneycake/tipjar
 
 ## Built with
 
