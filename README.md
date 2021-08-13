@@ -81,7 +81,7 @@ See below for the proposed schedule on next steps after Call for Code 2021 submi
 - Download code here: [tip-jar-react-app](./tip-jar-react-app/)
 
 
-## User Guide (Incudes Demo Environment Setup with Scannable Receipts & Barcodes)
+## User Guide (Incudes Live Demo Setup with Scannable Receipts & Barcodes)
 
 Download userguide.docx. 
 
