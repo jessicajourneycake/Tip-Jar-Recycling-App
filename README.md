@@ -83,7 +83,7 @@ See below for the proposed schedule on next steps after Call for Code 2021 submi
 
 ## User Guide (Incudes Live Demo Setup with Scannable Receipts & Barcodes)
 
-[User Guide] (./userguide/)
+Download userguide.pdf
 
 ## Live demo
 
