@@ -83,7 +83,7 @@ See below for the proposed schedule on next steps after Call for Code 2021 submi
 
 ## User Guide (Incudes Live Demo Setup with Scannable Receipts & Barcodes)
 
-Download userguide.docx. 
+Download [Tip Jar User Guide](./Tip Jar User Guide.pdf/) 
 
 ## Live demo
 
