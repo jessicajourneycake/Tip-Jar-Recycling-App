@@ -75,8 +75,8 @@ See below for the proposed schedule on next steps after Call for Code 2021 submi
 
 ## Getting started
 
-- Instructions: Download quickstart.docx.
-- Download code here: [tip-jar-react-app](./tip-jar-react-app/)
+- ![Quickstart Instructions](../main/quickstart.docx)
+- Clone the Git Repo above to try out Tip Jar!
 
 
 ## User Guide (Incudes Live Demo Setup with Scannable Receipts & Barcodes)
