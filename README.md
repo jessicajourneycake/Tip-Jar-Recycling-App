@@ -47,7 +47,7 @@ Tip Jar allows for consumer goods companies to opt in to pay consumers tips for 
 
 ## Long description
 
-[More detail is available here.](./description.md)
+[More detail is available here.](../main/description.md)
 
 ## Project roadmap
 
