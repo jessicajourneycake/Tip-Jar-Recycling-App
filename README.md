@@ -85,8 +85,8 @@ See below for the proposed schedule on next steps after Call for Code 2021 submi
 
 ## Live demo
 
-Head to the following link for instructions on how to access the Tip Jar Live Demo (and have your iPad or iPhone ready) 
-- https://expo.dev/@jjourneycake/tipjar
+Tap the following link on your mobile device: 
+- https://exp.host/--/to-exp/exp%3A%2F%2F10.0.0.242%3A19000
 
 ## Built with
 
